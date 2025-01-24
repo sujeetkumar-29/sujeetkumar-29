@@ -1,14 +1,18 @@
-## Hi there 👋
+<p> <img align="right" src="https://pageview.vercel.app/?github_user=sujeetkumar-29" alt="sujeetkumar-29"> </p>
 
-<h1 align="center">Hi 👋, I'm SUJEET KUMAR</h1>
-<h3 align="center">Full Stack Developer(MERN)</h3>
 
- ![pv](https://pageview.vercel.app/?github_user=sujeetkumar-29) 
+# Hi there! ✨
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeetkumar-29&theme=darkhub" alt="sujeetkumar-29" /></a> </p>
+Welcome to my GitHub profile! I'm ***SUJEET KUMAR***, a passionate developer constantly learning and building projects to improve my skills and create innovative solutions.
 
-<h3 align="left">Things I code with:</h3>
-<p align="left"> 
+---
+
+## About Me
+
+- **Profession**: Aspiring Software Developer
+- **Expertise**: Front-end and Back-end Web Development
+- **Technologies I Work With**:
+ <p align="left"> 
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -24,7 +28,28 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeetkumar-29&show_icons=true&locale=en&layout=compact" alt="sujeetkumar-29" /></p>
+---
+
+## What I’m Learning
+
+- Advanced JavaScript (ES6+)
+- Backend Development with Express.js
+- REST API development and integrations
+
+---
+
+## Let's Connect
+
+- **GitHub**: [sujeetkumar-29](https://github.com/sujeetkumar-29)
+
+
+Feel free to reach out for collaboration or to discuss anything tech-related!
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeetkumar-29&theme=darkhub" alt="sujeetkumar-29" /></a> </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeetkumar-29&show_icons=true&locale=en&layout=compact" alt="sujeetkumar-29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeetkumar-29&show_icons=true&locale=en" alt="sujeetkumar-29" /></p>
 
