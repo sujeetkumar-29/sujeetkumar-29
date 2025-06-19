@@ -1,5 +1,5 @@
 <!--  <p> <img align="right" src="https://pageview.vercel.app/?github_user=sujeetkumar-29" alt="sujeetkumar-29"> </p> -->
-<p> <img align="right" src="![](https://komarev.com/ghpvc/?username=sujeetkumar-29)" alt="sujeetkumar-29"> </p>
+<p> <img align="right" src="https://komarev.com/ghpvc/?username=sujeetkumar-29" alt="sujeetkumar-29"> </p>
 
 
 # Hi there! ✨
